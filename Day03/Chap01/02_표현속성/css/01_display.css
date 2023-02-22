@@ -79,7 +79,7 @@ li:hover{
     flex-basis: 33.3333%;
     min-width: 33.3333%;
     padding: 0 4px;
-    border-style: border-box;
+    box-sizing: border-box;
 
 }
 .col img{
