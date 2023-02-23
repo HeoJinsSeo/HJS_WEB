@@ -45,12 +45,12 @@ header{
         display: block;
     }
 
-    .navbar .mobile a:not(:first-child){
+    .navbar.mobile a:not(:first-child){
         float: none;
         display: block;
         clear: both;
     }
-    .navbar .mobile .icon{
+    .navbar.mobile .icon{
     position: absolute;
     top: 0;
     right: 0;
